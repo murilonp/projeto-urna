@@ -10,6 +10,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Link do projeto](https://murilonp.github.io/projeto-urna/public)
 
+##
+
+Números para teste:
+- VEREADOR: 38111, 77222
+- PREFEITO: 99, 84
+
 ### Desktop:
 
 ![webpage](https://github.com/murilonp/projeto-urna/blob/main/public/assets/img/LAYOUT_DESKTOP.png)
